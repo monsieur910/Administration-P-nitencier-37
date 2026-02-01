@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Administration – Pénitencier</title>
+<style>
+body {
+  background:#0b0f19;
+  color:#e5e7eb;
+  font-family: Arial, sans-serif;
+  margin:0;
+}
+header {
+  background:#020617;
+  padding:30px;
+  text-align:center;
+  border-bottom:2px solid #1e293b;
+}
+section {
+  max-width:900px;
+  margin:auto;
+  padding:30px;
+}
+.box {
+  background:#020617;
+  padding:20px;
+  margin-bottom:20px;
+  border-radius:8px;
+  border:1px solid #1e293b;
+}
+h1,h2 {
+  color:#f8fafc;
+}
+a.button {
+  display:inline-block;
+  padding:12px 20px;
+  background:#2563eb;
+  color:white;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:bold;
+}
+footer {
+  text-align:center;
+  padding:20px;
+  color:#94a3b8;
+  font-size:14px;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Administration du Pénitencier</h1>
+  <p>Serveur Discord RP – Site Officiel</p>
+</header>
+
+<section>
+
+<div class="box">
+<h2>🏛️ Présentation</h2>
+<p>
+Ce site représente l’autorité administrative du Pénitencier.
+Il a pour but d’informer les détenus, le personnel et les visiteurs
+sur les règles et l’organisation du serveur Discord RP.
+</p>
+</div>
+
+<div class="box">
+<h2>📜 Règlement Principal</h2>
+<ul>
+<li>Respect strict du RP</li>
+<li>Aucun metagaming / powergaming</li>
+<li>Respect du personnel pénitentiaire</li>
+<li>Sanctions en cas d’infraction</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>👮 Administration</h2>
+<p>
+Directeur : <b>À définir</b><br>
+Chef de sécurité : <b>À définir</b><br>
+Surveillants : <b>À définir</b>
+</p>
+</div>
+
+<div class="box">
+<h2>🔗 Accès Discord</h2>
+<p>Clique pour rejoindre le serveur officiel :</p>
+<a class="button" href="https://discord.gg/TONLIEN" target="_blank">
+Rejoindre le Discord
+</a>
+</div>
+
+</section>
+
+<footer>
+© Administration du Pénitencier – Discord RP
+</footer>
+
+</body>
+</html>
