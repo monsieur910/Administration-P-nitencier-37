@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Mon site Discord</title>
-</head>
-<body>
-  <h1>Bienvenue sur mon site</h1>
-  <p>Serveur Discord : lien ici</p>
-</body>
-</html>
 # Administration-P-nitencier-37
